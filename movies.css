@@ -1,0 +1,8 @@
+@media (max-width: 477px)
+{
+.form-inline .form-control {
+    display: inline-block;
+    width: 65px;
+    /* vertical-align: middle; */
+}
+}
